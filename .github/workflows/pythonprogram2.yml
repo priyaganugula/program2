@@ -27,3 +27,5 @@ jobs:
   
     - name: python script running
       run: python src/addition.py
+    - name: python script running
+      run: python src/subtraction.py
